@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: c84960341d6990f47ac17175942477e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: B_Body
+    100002: B_Head
+    100004: B_HeadEnd
+    100006: B_L_Arm
+    100008: B_L_Elbow
+    100010: B_L_Foot
+    100012: B_L_Hand
+    100014: B_L_Heel
+    100016: B_L_Knee
+    100018: B_L_Leg
+    100020: B_L_Shoulder
+    100022: B_L_Toe
+    100024: B_R_Arm
+    100026: B_R_Elbow
+    100028: B_R_Foot
+    100030: B_R_Hand
+    100032: B_R_Heel
+    100034: B_R_Knee
+    100036: B_R_Leg
+    100038: B_R_Shoulder
+    100040: B_R_Toe
+    100042: Body
+    100044: Box001
+    100046: Box002
+    100048: Box003
+    100050: Box004
+    100052: Box005
+    100054: Box007
+    100056: Box008
+    100058: Eyes_Controller
+    100060: Hair
+    100062: Head
+    100064: Head_Controller
+    100066: Hip_Controller
+    100068: IK Chain001
+    100070: IK Chain002
+    100072: IK Chain003
+    100074: IK Chain004
+    100076: IK Chain009
+    100078: IK Chain010
+    100080: L_Arm
+    100082: L_Arm 1
+    100084: L_Arm_Controller
+    100086: L_Elbow
+    100088: L_Elbow_Target
+    100090: L_Eye
+    100092: L_Eye_Controller
+    100094: L_EyeBrown_Controller
+    100096: L_Foot_Controller
+    100098: L_Hand
+    100100: L_Knee_Target
+    100102: L_Leg
+    100104: L_Toe_Controller
+    100106: Line003
+    100108: Master Controller
+    100110: PirateHat
+    100112: PirateHat2
+    100114: //RootNode
+    100116: R_Arm
+    100118: R_Arm 1
+    100120: R_Elbow
+    100122: R_Elbow_Target
+    100124: R_Eye
+    100126: R_Eye_Controller
+    100128: R_Eyebrown
+    100130: R_Eyebrown001
+    100132: R_EyeBrown_Controllerwp
+    100134: R_Foot
+    100136: R_Foot001
+    100138: R_Foot_Controller
+    100140: R_Hand
+    100142: R_Hand_Controller
+    100144: R_Knee
+    100146: R_Knee001
+    100148: R_Knee_Target
+    100150: R_Leg
+    100152: R_Leg 1
+    100154: R_Leg001
+    100156: R_Toe_Controller
+    100158: SkullBone
+    100160: SkullBone2
+    100162: SkullHat
+    100164: Sword
+    100166: Sword_Blade
+    400000: B_Body
+    400002: B_Head
+    400004: B_HeadEnd
+    400006: B_L_Arm
+    400008: B_L_Elbow
+    400010: B_L_Foot
+    400012: B_L_Hand
+    400014: B_L_Heel
+    400016: B_L_Knee
+    400018: B_L_Leg
+    400020: B_L_Shoulder
+    400022: B_L_Toe
+    400024: B_R_Arm
+    400026: B_R_Elbow
+    400028: B_R_Foot
+    400030: B_R_Hand
+    400032: B_R_Heel
+    400034: B_R_Knee
+    400036: B_R_Leg
+    400038: B_R_Shoulder
+    400040: B_R_Toe
+    400042: Body
+    400044: Box001
+    400046: Box002
+    400048: Box003
+    400050: Box004
+    400052: Box005
+    400054: Box007
+    400056: Box008
+    400058: Eyes_Controller
+    400060: Hair
+    400062: Head
+    400064: Head_Controller
+    400066: Hip_Controller
+    400068: IK Chain001
+    400070: IK Chain002
+    400072: IK Chain003
+    400074: IK Chain004
+    400076: IK Chain009
+    400078: IK Chain010
+    400080: L_Arm
+    400082: L_Arm 1
+    400084: L_Arm_Controller
+    400086: L_Elbow
+    400088: L_Elbow_Target
+    400090: L_Eye
+    400092: L_Eye_Controller
+    400094: L_EyeBrown_Controller
+    400096: L_Foot_Controller
+    400098: L_Hand
+    400100: L_Knee_Target
+    400102: L_Leg
+    400104: L_Toe_Controller
+    400106: Line003
+    400108: Master Controller
+    400110: PirateHat
+    400112: PirateHat2
+    400114: //RootNode
+    400116: R_Arm
+    400118: R_Arm 1
+    400120: R_Elbow
+    400122: R_Elbow_Target
+    400124: R_Eye
+    400126: R_Eye_Controller
+    400128: R_Eyebrown
+    400130: R_Eyebrown001
+    400132: R_EyeBrown_Controllerwp
+    400134: R_Foot
+    400136: R_Foot001
+    400138: R_Foot_Controller
+    400140: R_Hand
+    400142: R_Hand_Controller
+    400144: R_Knee
+    400146: R_Knee001
+    400148: R_Knee_Target
+    400150: R_Leg
+    400152: R_Leg 1
+    400154: R_Leg001
+    400156: R_Toe_Controller
+    400158: SkullBone
+    400160: SkullBone2
+    400162: SkullHat
+    400164: Sword
+    400166: Sword_Blade
+    2100000: 15 - Default
+    2100002: 09 - Default
+    2100004: 01 - Default
+    2100006: 07 - Default
+    2100008: 13 - Default
+    2100010: 08 - Default
+    2100012: 14 - Default
+    2100014: 'Material #83'
+    2100016: 20 - Default
+    2100018: No Name
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box007
+    2300012: Box008
+    2300014: L_Eye
+    2300016: L_Hand
+    2300018: Line003
+    2300020: PirateHat
+    2300022: PirateHat2
+    2300024: R_Eye
+    2300026: R_Eyebrown
+    2300028: R_Eyebrown001
+    2300030: R_Hand
+    2300032: SkullBone
+    2300034: SkullBone2
+    2300036: SkullHat
+    2300038: Sword
+    2300040: Sword_Blade
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box007
+    3300012: Box008
+    3300014: L_Eye
+    3300016: L_Hand
+    3300018: Line003
+    3300020: PirateHat
+    3300022: PirateHat2
+    3300024: R_Eye
+    3300026: R_Eyebrown
+    3300028: R_Eyebrown001
+    3300030: R_Hand
+    3300032: SkullBone
+    3300034: SkullBone2
+    3300036: SkullHat
+    3300038: Sword
+    3300040: Sword_Blade
+    4300000: Body
+    4300002: R_Leg
+    4300004: R_Knee
+    4300006: R_Foot
+    4300008: R_Leg001
+    4300010: R_Knee001
+    4300012: R_Foot001
+    4300014: R_Arm
+    4300016: R_Elbow
+    4300018: L_Arm
+    4300020: L_Elbow
+    4300022: Head
+    4300024: PirateHat
+    4300026: PirateHat2
+    4300028: SkullHat
+    4300030: SkullBone
+    4300032: SkullBone2
+    4300034: Box004
+    4300036: Box003
+    4300038: Line003
+    4300040: Box002
+    4300042: Box001
+    4300044: Box005
+    4300046: R_Eye
+    4300048: L_Eye
+    4300050: R_Eyebrown
+    4300052: R_Eyebrown001
+    4300054: L_Hand
+    4300056: R_Hand
+    4300058: Sword
+    4300060: Sword_Blade
+    4300062: Box007
+    4300064: Box008
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body
+    13700002: Head
+    13700004: L_Arm 1
+    13700006: L_Elbow
+    13700008: R_Arm 1
+    13700010: R_Elbow
+    13700012: R_Foot
+    13700014: R_Foot001
+    13700016: R_Knee
+    13700018: R_Knee001
+    13700020: R_Leg 1
+    13700022: R_Leg001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
