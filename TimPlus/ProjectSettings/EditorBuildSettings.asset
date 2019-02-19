@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/PrototypeScene.unity
     guid: 6016d653612b9264ba7ed56a834803bb
   - enabled: 1
+    path: Assets/UIScenes/UIBase.unity
+    guid: 33af87044a6907e4b826bdbe9bd20c91
+  - enabled: 1
     path: Assets/PrototypeSceneV2.unity
     guid: 902471e48cc670443a94da2f50b9b4fe
   m_configObjects: {}
